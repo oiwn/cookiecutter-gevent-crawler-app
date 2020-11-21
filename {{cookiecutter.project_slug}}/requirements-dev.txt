@@ -1,0 +1,8 @@
+# dev things
+pynvim
+mypy
+ipython
+ipdb
+pylint
+flake8
+black

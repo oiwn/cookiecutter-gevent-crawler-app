@@ -1,0 +1,5 @@
+click
+ujson
+pyjaml
+pydantic
+docker-compose

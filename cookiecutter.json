@@ -1,0 +1,10 @@
+{
+  "full_name": "Alex Oiwn",
+  "email": "alex@imscraping.ninja",
+  "github_username": "oiwn",
+  "project_name": "Web Crawler App",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Project template with common parts to build web crawlers with gevent/urlib3",
+  "pypi_username": "{{ cookiecutter.github_username }}",
+  "version": "0.1.0",
+}
